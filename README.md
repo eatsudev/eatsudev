@@ -1,2 +1,2 @@
 Beginner Game Developer & Designer
-Currently studying Undergraduate Computer Science Major
+<b>Currently studying Undergraduate Computer Science Major</b>
