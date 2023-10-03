@@ -13,3 +13,8 @@ I'm a beginner Game Programmer & Designer
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <br />
 
+<h1>
+  Cpntact Person
+</h1>
+
+Discord : eatsukeey
