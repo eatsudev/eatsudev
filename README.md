@@ -14,7 +14,7 @@ I'm a beginner Game Programmer & Designer
 <br />
 
 <h1>
-  Cpntact Person
+  Contact Person
 </h1>
 
 Discord : eatsukeey
