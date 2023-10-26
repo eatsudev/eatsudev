@@ -1,7 +1,7 @@
 <h1>
   About me
 </h1>
-I'm a beginner Game Programmer & Designer from Indonesia
+Amateur Game Programmer & Designer from Indonesia
 <div>Currently studying Computer Science Undergraduate Major</div>
 
 
