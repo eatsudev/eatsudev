@@ -17,7 +17,7 @@ I'm a beginner Game Programmer & Designer from Indonesia
 <h1>
   Programming Languages
 </h1>
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+C#, HTML, Java
 
 <br />
 
