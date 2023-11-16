@@ -17,7 +17,7 @@ Amateur Game Programmer & Designer from Indonesia
 <h1>
   Programming Languages
 </h1>
-C#, HTML, Java
+C#, HTML
 
 <br />
 
