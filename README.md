@@ -1,7 +1,7 @@
 <h1>
   About me
 </h1>
-Hi, My name is Derriel and i'm a college student of Computer Science Majoring at Game Application and Technology. I have a passtion and interested in Game Development Industry, Adept at collaborating with
+Hi, My name is Derriel and i'm a college student of Computer Science Majoring at Game Application and Technology. I have a passion and interested in Game Development Industry, Adept at collaborating with
 cross-functional teams to deliver high-quality games, and passionate about staying updated on industry trends and emerging
 technologies.
 
