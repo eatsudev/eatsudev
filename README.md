@@ -1,9 +1,9 @@
 <h1>
   About me
 </h1>
-Game Programmer & Designer
-<div>Currently studying Computer Science Undergraduate Major</div>
-
+Hi, My name is Derriel and i'm a college student of Computer Science Majoring at Game Application and Technology. I have a passtion and interested in Game Development Industry, Adept at collaborating with
+cross-functional teams to deliver high-quality games, and passionate about staying updated on industry trends and emerging
+technologies.
 
 <h1>
   Softwares & Tools
@@ -12,14 +12,14 @@ Game Programmer & Designer
 <img align="left" alt="vs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="ps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <br />
-
+<br />
 
 <h1>
-  Programming Languages
+  itch.io Page
 </h1>
-C#, HTML
 
-<br />
+Check out my games at : https://eatsukeey.itch.io
+<div>Most of these games available are fully released.</div>
 
 <h1>
   Contact Person
