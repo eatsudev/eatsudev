@@ -19,7 +19,7 @@ technologies.
 </h1>
 
 Check out my games at : https://eatsukeey.itch.io
-<div>Most of these games available are fully released.</div>
+<div>Most of these games are fully released.</div>
 
 <h1>
   Contact Person
