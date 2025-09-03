@@ -82,3 +82,5 @@ Because each elemental core has its own uniqueness and abilities. Especially fre
 <p align="left">
 <a href="mailto:wizardbolt01@gmail.com" target="blank"><img align="center" src="https://github.com/eatsudev/eatsudev/blob/main/gif/google-gmail-logo-symbol-design-illustration-free-vector.jpg" alt="mailto:wizardbolt01@gmail.com" height="30" width="40" /></a>
 </p>
+
+Discord : eatsukeey
