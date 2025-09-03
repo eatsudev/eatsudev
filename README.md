@@ -4,7 +4,7 @@
   About me
 </h1>
 
-I'm a college student at BINUS University and game developer, Interested in Game Development Industry, Adept at collaborating with cross-functional teams to deliver high-quality games, and passionate about staying updated on industry trends and emerging technologies, i'm also developing games using Unity Engine & C# Programming Language and focusing to improve my programming skills.
+I'm a college student at BINUS University and game developer, Interested in Game Development Industry, Adept at collaborating with cross-functional teams to deliver high-quality games, and passionate about staying updated on industry trends and emerging technologies, i'm also developing games using Unity Engine & C# Language and focusing to improve my programming skills.
 
 
 
