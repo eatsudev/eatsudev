@@ -12,7 +12,7 @@ I'm a college student at BINUS University and game developer, Interested in Game
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center">Abyssense</a></th>
+      <th width="50%" align="center">Abysssense</a></th>
       <th width="50%" align="center">Epsilon Dungeon</a></th>
     </tr>
   </thead>
