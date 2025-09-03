@@ -12,8 +12,8 @@ I'm a college student at BINUS University and game developer, Interested in Game
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">Abyssense</a></th>
-      <th width="50%" align="center"><a href="">Epsilon Dungeon</a></th>
+      <th width="50%" align="center">Abyssense</a></th>
+      <th width="50%" align="center">Epsilon Dungeon</a></th>
     </tr>
   </thead>
   <tbody>
@@ -43,8 +43,8 @@ I'm a college student at BINUS University and game developer, Interested in Game
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">Midnight : Lily's Farm</a></th>
-      <th width="50%" align="center"><a href="">Elemental Blaster</a></th>
+      <th width="50%" align="center">Midnight : Lily's Farm</a></th>
+      <th width="50%" align="center">Elemental Blaster</a></th>
     </tr>
   </thead>
   <tbody>
