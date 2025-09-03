@@ -1,7 +1,10 @@
 # Hi, I'm Derriel Gunawan 👋
----
-I'm a college student at BINUS University and game developer, Interested in Game Development Industry, Adept at collaborating with cross-functional teams to deliver high-quality games, and passionate about staying updated on industry trends and emerging technologies, i'm also developing games using Unity Engine & C# Programming Language and focusing to improve my programming skills.
 
+<h1>
+  About me
+</h1>
+
+I'm a college student at BINUS University and game developer, Interested in Game Development Industry, Adept at collaborating with cross-functional teams to deliver high-quality games, and passionate about staying updated on industry trends and emerging technologies, i'm also developing games using Unity Engine & C# Programming Language and focusing to improve my programming skills.
 
 
 
@@ -67,3 +70,12 @@ Because each elemental core has its own uniqueness and abilities. Especially fre
     </tr>
   </tbody>
 </table>
+
+<h1>
+  Contact Person
+</h1>
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/derriel-gunawan-542790183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/derriel-gunawan-542790183/" height="30" width="40" /></a>
+</p>
+
